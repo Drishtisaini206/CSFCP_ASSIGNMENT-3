@@ -1,0 +1,10 @@
+PROJECT OVERVIEW: CONSOLE CALCULATOR
+
+1. Goal and Purpose
+This project was developed as part of the B.Tech CSE assignment to apply fundamental programming principles, demonstrate effective use of the VS Code development environment, and master version control using Git and GitHub.
+The primary goal was to create a reliable, console-based utility for performing core arithmetic operations.
+2. Key Features Implemented
+Fundamental Operations: Supports addition, subtraction, multiplication, and division.
+Robust Input Handling: The program converts user input to floating-point numbers (float) to handle decimals.
+Critical Error Handling: The divide function includes logic to prevent program failure when a user attempts to divide by zero, returning a user-friendly error message instead.
+User Interface: A simple, menu-driven interface guides the user through operation selection and number entry.
